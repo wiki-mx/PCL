@@ -14,5 +14,5 @@
 
 ### 关于最新版
 现在最新版已更新至2.11.2如果你还在用蓝奏云2.10.9或2.10.8请立刻跟新最新版本-**爱发电版本低**
-[2.11.2.zip](https://github.com/user-attachments/files/23429805/2.11.2.zip)
+[2.11.2.zip-点击下载](https://github.com/user-attachments/files/23429805/2.11.2.zip)
 源代码下载请去[点击下载](https://codeload.github.com/wiki-mx/PCL-1/zip/refs/tags/2.11.2)
