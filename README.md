@@ -10,3 +10,9 @@
 <img width="427" height="130" alt="image" src="https://github.com/user-attachments/assets/755d5ca0-f8a1-4a7d-85d2-929c84c8d675" />
 但是在这里创建问题为高级问题，只要你订阅了该线程消息直接通过GitHub联系到你的邮箱，如果不申请也无妨<img width="1352" height="619" alt="image" src="https://github.com/user-attachments/assets/3e0c66ed-7bbd-4f91-92fd-3266c2be9208" />
 在[这里-问题添加-普通问题-不需要申请](https://github.com/wiki-mx/PCL/issues/new)
+
+
+### 关于最新版
+现在最新版已更新至2.11.2如果你还在用蓝奏云2.10.9或2.10.8请立刻跟新最新版本-**爱发电版本低**
+[2.11.2.zip](https://github.com/user-attachments/files/23429805/2.11.2.zip)
+源代码下载请去[点击下载](https://codeload.github.com/wiki-mx/PCL-1/zip/refs/tags/2.11.2)
